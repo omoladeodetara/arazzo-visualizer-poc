@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { ArazzoViewer } from 'arazzo-visualizer-poc';
 
 const sampleArazzoSpec = `arazzo: 1.0.0
